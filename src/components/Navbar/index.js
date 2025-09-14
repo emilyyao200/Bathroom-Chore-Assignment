@@ -9,16 +9,10 @@ const Navbar = () => {
             <Nav>
                 <NavMenu>
                     <NavLink to="/about" activeStyle>
-                        norepost
+                        Home
                     </NavLink>
                     <NavLink to="/contact" activeStyle>
-                        Log In
-                    </NavLink>
-                    <NavLink to="/blogs" activeStyle>
-                        Blogs
-                    </NavLink>
-                    <NavLink to="/sign-up" activeStyle>
-                        Sign Up
+                        Task Distributer
                     </NavLink>
                 </NavMenu>
             </Nav>
